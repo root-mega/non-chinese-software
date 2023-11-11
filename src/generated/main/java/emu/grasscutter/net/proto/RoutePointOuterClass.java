@@ -1823,8 +1823,7 @@ public final class RoutePointOuterClass {
       "MathQuaternionH\001\022\031\n\010position\030\001 \001(\0132\007.Vec" +
       "tor\022\024\n\014arrive_range\030\002 \001(\002\022\027\n\017has_reach_e" +
       "vent\030\003 \001(\010B\r\n\013move_paramsB\017\n\rrotate_para" +
-      "msB3\n\031emu.grasscutter.net.proto\252\002\025Furina" +
-      "Impact.Protocolb\006proto3"
+      "msB\033\n\031emu.grasscutter.net.protob\006proto3"
     };
     descriptor = com.google.protobuf.Descriptors.FileDescriptor
       .internalBuildGeneratedFileFrom(descriptorData,

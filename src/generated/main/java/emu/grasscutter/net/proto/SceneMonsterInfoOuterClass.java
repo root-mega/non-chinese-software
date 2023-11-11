@@ -3471,9 +3471,8 @@ public final class SceneMonsterInfoOuterClass {
       "te\030\007 \001(\010\022\020\n\010is_light\030\026 \001(\010\022\020\n\010block_id\030\r" +
       " \001(\r\022\024\n\014init_pose_id\030\025 \001(\r\022\031\n\021authority_" +
       "peer_id\030\005 \001(\r\0323\n\021SummonTagMapEntry\022\013\n\003ke" +
-      "y\030\001 \001(\r\022\r\n\005value\030\002 \001(\r:\0028\001B\t\n\007contentB3\n" +
-      "\031emu.grasscutter.net.proto\252\002\025FurinaImpac" +
-      "t.Protocolb\006proto3"
+      "y\030\001 \001(\r\022\r\n\005value\030\002 \001(\r:\0028\001B\t\n\007contentB\033\n" +
+      "\031emu.grasscutter.net.protob\006proto3"
     };
     descriptor = com.google.protobuf.Descriptors.FileDescriptor
       .internalBuildGeneratedFileFrom(descriptorData,

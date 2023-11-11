@@ -1299,8 +1299,8 @@ public final class AvatarEnterSceneInfoOuterClass {
       "\r\022%\n\020server_buff_list\030\017 \003(\0132\013.ServerBuff" +
       "\022\030\n\020avatar_entity_id\030\006 \001(\r\022\030\n\020weapon_ent" +
       "ity_id\030\001 \001(\r\022\023\n\013avatar_guid\030\004 \001(\004\022\023\n\013wea" +
-      "pon_guid\030\013 \001(\004B3\n\031emu.grasscutter.net.pr" +
-      "oto\252\002\025FurinaImpact.Protocolb\006proto3"
+      "pon_guid\030\013 \001(\004B\033\n\031emu.grasscutter.net.pr" +
+      "otob\006proto3"
     };
     descriptor = com.google.protobuf.Descriptors.FileDescriptor
       .internalBuildGeneratedFileFrom(descriptorData,

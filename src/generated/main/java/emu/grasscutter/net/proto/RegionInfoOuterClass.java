@@ -4480,9 +4480,8 @@ public final class RegionInfoOuterClass {
       "key_url\030  \001(\t\022\"\n\032use_gateserver_domain_n" +
       "ame\030\034 \001(\010\022\027\n\017gateserver_port\030\002 \001(\r\022\033\n\023cl" +
       "ient_data_version\030\016 \001(\r\022#\n\033client_silenc" +
-      "e_data_version\030\022 \001(\rB3\n\031emu.grasscutter." +
-      "net.proto\252\002\025FurinaImpact.Protocolb\006proto" +
-      "3"
+      "e_data_version\030\022 \001(\rB\033\n\031emu.grasscutter." +
+      "net.protob\006proto3"
     };
     descriptor = com.google.protobuf.Descriptors.FileDescriptor
       .internalBuildGeneratedFileFrom(descriptorData,

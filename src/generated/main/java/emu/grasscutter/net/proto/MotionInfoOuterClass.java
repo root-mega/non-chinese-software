@@ -1948,9 +1948,8 @@ public final class MotionInfoOuterClass {
       "s\030\001 \001(\0132\007.Vector\022\027\n\006params\030\005 \003(\0132\007.Vecto" +
       "r\022\026\n\005speed\030\003 \001(\0132\007.Vector\022\016\n\006ref_id\030\007 \001(" +
       "\r\022\022\n\nscene_time\030\010 \001(\r\022\031\n\021interval_veloci" +
-      "ty\030\t \001(\004\022\033\n\005state\030\004 \001(\0162\014.MotionStateB3\n" +
-      "\031emu.grasscutter.net.proto\252\002\025FurinaImpac" +
-      "t.Protocolb\006proto3"
+      "ty\030\t \001(\004\022\033\n\005state\030\004 \001(\0162\014.MotionStateB\033\n" +
+      "\031emu.grasscutter.net.protob\006proto3"
     };
     descriptor = com.google.protobuf.Descriptors.FileDescriptor
       .internalBuildGeneratedFileFrom(descriptorData,

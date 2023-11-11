@@ -727,9 +727,8 @@ public final class CustomCommonNodeInfoOuterClass {
     java.lang.String[] descriptorData = {
       "\n\032CustomCommonNodeInfo.proto\"X\n\024CustomCo" +
       "mmonNodeInfo\022\027\n\017slot_identifier\030\003 \001(\t\022\024\n" +
-      "\014parent_index\030\001 \001(\005\022\021\n\tconfig_id\030\002 \001(\rB3" +
-      "\n\031emu.grasscutter.net.proto\252\002\025FurinaImpa" +
-      "ct.Protocolb\006proto3"
+      "\014parent_index\030\001 \001(\005\022\021\n\tconfig_id\030\002 \001(\rB\033" +
+      "\n\031emu.grasscutter.net.protob\006proto3"
     };
     descriptor = com.google.protobuf.Descriptors.FileDescriptor
       .internalBuildGeneratedFileFrom(descriptorData,

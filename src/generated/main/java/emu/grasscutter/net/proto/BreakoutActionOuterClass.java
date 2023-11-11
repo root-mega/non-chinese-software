@@ -2239,8 +2239,8 @@ public final class BreakoutActionOuterClass {
       "AUNCH_BALL\020\001\022%\n!BREAKOUT_ACTION_TYPE_DES" +
       "TROY_BALL\020\002\022\'\n#BREAKOUT_ACTION_TYPE_FALL" +
       "ING_OBJECT\020\003\022 \n\034BREAKOUT_ACTION_TYPE_MIS" +
-      "SILE\020\004B3\n\031emu.grasscutter.net.proto\252\002\025Fu" +
-      "rinaImpact.Protocolb\006proto3"
+      "SILE\020\004B\033\n\031emu.grasscutter.net.protob\006pro" +
+      "to3"
     };
     descriptor = com.google.protobuf.Descriptors.FileDescriptor
       .internalBuildGeneratedFileFrom(descriptorData,

@@ -1308,9 +1308,8 @@ emu.grasscutter.net.proto.AvatarTeamOuterClass.AvatarTeam defaultValue) {
       "AvatarTeamMapEntry\022\032\n\022cur_avatar_team_id" +
       "\030\014 \001(\r\022\032\n\022choose_avatar_guid\030\010 \001(\004\032A\n\022Av" +
       "atarTeamMapEntry\022\013\n\003key\030\001 \001(\r\022\032\n\005value\030\002" +
-      " \001(\0132\013.AvatarTeam:\0028\001B3\n\031emu.grasscutter" +
-      ".net.proto\252\002\025FurinaImpact.Protocolb\006prot" +
-      "o3"
+      " \001(\0132\013.AvatarTeam:\0028\001B\033\n\031emu.grasscutter" +
+      ".net.protob\006proto3"
     };
     descriptor = com.google.protobuf.Descriptors.FileDescriptor
       .internalBuildGeneratedFileFrom(descriptorData,

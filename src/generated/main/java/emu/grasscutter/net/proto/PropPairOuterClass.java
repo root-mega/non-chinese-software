@@ -715,8 +715,8 @@ public final class PropPairOuterClass {
     java.lang.String[] descriptorData = {
       "\n\016PropPair.proto\032\017PropValue.proto\"8\n\010Pro" +
       "pPair\022\036\n\nprop_value\030\002 \001(\0132\n.PropValue\022\014\n" +
-      "\004type\030\001 \001(\rB3\n\031emu.grasscutter.net.proto" +
-      "\252\002\025FurinaImpact.Protocolb\006proto3"
+      "\004type\030\001 \001(\rB\033\n\031emu.grasscutter.net.proto" +
+      "b\006proto3"
     };
     descriptor = com.google.protobuf.Descriptors.FileDescriptor
       .internalBuildGeneratedFileFrom(descriptorData,

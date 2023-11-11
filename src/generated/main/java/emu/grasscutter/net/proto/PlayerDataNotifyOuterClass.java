@@ -930,9 +930,8 @@ emu.grasscutter.net.proto.PropValueOuterClass.PropValue defaultValue) {
       "o\"\223\001\n\020PlayerDataNotify\022\021\n\tnick_name\030\001 \001(" +
       "\t\0220\n\010prop_map\030\003 \003(\0132\036.PlayerDataNotify.P" +
       "ropMapEntry\032:\n\014PropMapEntry\022\013\n\003key\030\001 \001(\r" +
-      "\022\031\n\005value\030\002 \001(\0132\n.PropValue:\0028\001B3\n\031emu.g" +
-      "rasscutter.net.proto\252\002\025FurinaImpact.Prot" +
-      "ocolb\006proto3"
+      "\022\031\n\005value\030\002 \001(\0132\n.PropValue:\0028\001B\033\n\031emu.g" +
+      "rasscutter.net.protob\006proto3"
     };
     descriptor = com.google.protobuf.Descriptors.FileDescriptor
       .internalBuildGeneratedFileFrom(descriptorData,

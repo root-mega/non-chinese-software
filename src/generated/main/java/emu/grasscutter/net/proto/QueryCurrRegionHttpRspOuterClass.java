@@ -1612,9 +1612,8 @@ public final class QueryCurrRegionHttpRspOuterClass {
       "client_secret_key\030\013 \001(\014\022&\n\036region_custom" +
       "_config_encrypted\030\014 \001(\014\022-\n%client_region" +
       "_custom_config_encrypted\030\r \001(\014\022\013\n\003msg\030\002 " +
-      "\001(\t\022\017\n\007retcode\030\001 \001(\005B\010\n\006detailB3\n\031emu.gr" +
-      "asscutter.net.proto\252\002\025FurinaImpact.Proto" +
-      "colb\006proto3"
+      "\001(\t\022\017\n\007retcode\030\001 \001(\005B\010\n\006detailB\033\n\031emu.gr" +
+      "asscutter.net.protob\006proto3"
     };
     descriptor = com.google.protobuf.Descriptors.FileDescriptor
       .internalBuildGeneratedFileFrom(descriptorData,

@@ -918,9 +918,8 @@ public final class TeamEnterSceneInfoOuterClass {
       "o\"\223\001\n\022TeamEnterSceneInfo\0223\n\025ability_cont" +
       "rol_block\030\006 \001(\0132\024.AbilityControlBlock\0220\n" +
       "\021team_ability_info\030\010 \001(\0132\025.AbilitySyncSt" +
-      "ateInfo\022\026\n\016team_entity_id\030\007 \001(\rB3\n\031emu.g" +
-      "rasscutter.net.proto\252\002\025FurinaImpact.Prot" +
-      "ocolb\006proto3"
+      "ateInfo\022\026\n\016team_entity_id\030\007 \001(\rB\033\n\031emu.g" +
+      "rasscutter.net.protob\006proto3"
     };
     descriptor = com.google.protobuf.Descriptors.FileDescriptor
       .internalBuildGeneratedFileFrom(descriptorData,

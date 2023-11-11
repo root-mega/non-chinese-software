@@ -803,9 +803,8 @@ public final class GetPlayerTokenReqOuterClass {
     java.lang.String[] descriptorData = {
       "\n\027GetPlayerTokenReq.proto\"W\n\021GetPlayerTo" +
       "kenReq\022\021\n\tonline_id\030\r \001(\t\022\030\n\017client_rand" +
-      "_key\030\217\007 \001(\t\022\025\n\rplatform_type\030\n \001(\rB3\n\031em" +
-      "u.grasscutter.net.proto\252\002\025FurinaImpact.P" +
-      "rotocolb\006proto3"
+      "_key\030\217\007 \001(\t\022\025\n\rplatform_type\030\n \001(\rB\033\n\031em" +
+      "u.grasscutter.net.protob\006proto3"
     };
     descriptor = com.google.protobuf.Descriptors.FileDescriptor
       .internalBuildGeneratedFileFrom(descriptorData,

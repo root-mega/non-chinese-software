@@ -1329,9 +1329,8 @@ public final class ClientGadgetInfoOuterClass {
       "id\030\003 \001(\004\022\021\n\tcamp_type\030\002 \001(\r\022\027\n\017owner_ent" +
       "ity_id\030\004 \001(\r\022\036\n\026is_peer_id_from_player\030\007" +
       " \001(\010\022\022\n\nasync_load\030\006 \001(\010\022\030\n\020target_entit" +
-      "y_id\030\005 \001(\r\022\017\n\007camp_id\030\001 \001(\rB3\n\031emu.grass" +
-      "cutter.net.proto\252\002\025FurinaImpact.Protocol" +
-      "b\006proto3"
+      "y_id\030\005 \001(\r\022\017\n\007camp_id\030\001 \001(\rB\033\n\031emu.grass" +
+      "cutter.net.protob\006proto3"
     };
     descriptor = com.google.protobuf.Descriptors.FileDescriptor
       .internalBuildGeneratedFileFrom(descriptorData,

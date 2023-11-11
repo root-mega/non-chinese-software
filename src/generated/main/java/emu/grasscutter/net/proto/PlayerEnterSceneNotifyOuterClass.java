@@ -1838,9 +1838,8 @@ public final class PlayerEnterSceneNotifyOuterClass {
       "_list\030\013 \003(\r\022\031\n\021enter_scene_token\030\010 \001(\r\022\r" +
       "\n\005unk_3\030\003 \001(\r\022\016\n\006unk_13\030\r \001(\r\022\020\n\007unk_449" +
       "\030\301\003 \001(\r\022\032\n\010prev_pos\030\215\004 \001(\0132\007.Vector\022\020\n\007u" +
-      "nk_834\030\302\006 \001(\r\022\025\n\014unk_uid_1020\030\374\007 \001(\rB3\n\031" +
-      "emu.grasscutter.net.proto\252\002\025FurinaImpact" +
-      ".Protocolb\006proto3"
+      "nk_834\030\302\006 \001(\r\022\025\n\014unk_uid_1020\030\374\007 \001(\rB\033\n\031" +
+      "emu.grasscutter.net.protob\006proto3"
     };
     descriptor = com.google.protobuf.Descriptors.FileDescriptor
       .internalBuildGeneratedFileFrom(descriptorData,

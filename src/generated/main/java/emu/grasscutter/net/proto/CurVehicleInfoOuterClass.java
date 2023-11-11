@@ -651,9 +651,8 @@ public final class CurVehicleInfoOuterClass {
     java.lang.String[] descriptorData = {
       "\n\024CurVehicleInfo.proto\032\014Vector.proto\"C\n\016" +
       "CurVehicleInfo\022\021\n\tentity_id\030\001 \001(\r\022\013\n\003pos" +
-      "\030\002 \001(\r\022\021\n\tgadget_id\030\003 \001(\rB3\n\031emu.grasscu" +
-      "tter.net.proto\252\002\025FurinaImpact.Protocolb\006" +
-      "proto3"
+      "\030\002 \001(\r\022\021\n\tgadget_id\030\003 \001(\rB\033\n\031emu.grasscu" +
+      "tter.net.protob\006proto3"
     };
     descriptor = com.google.protobuf.Descriptors.FileDescriptor
       .internalBuildGeneratedFileFrom(descriptorData,

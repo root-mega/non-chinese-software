@@ -717,8 +717,8 @@ public final class AnimatorParameterValueInfoPairOuterClass {
       "AnimatorParameterValueInfo.proto\"e\n\036Anim" +
       "atorParameterValueInfoPair\0222\n\ranimator_p" +
       "ara\030\002 \001(\0132\033.AnimatorParameterValueInfo\022\017" +
-      "\n\007name_id\030\001 \001(\005B3\n\031emu.grasscutter.net.p" +
-      "roto\252\002\025FurinaImpact.Protocolb\006proto3"
+      "\n\007name_id\030\001 \001(\005B\033\n\031emu.grasscutter.net.p" +
+      "rotob\006proto3"
     };
     descriptor = com.google.protobuf.Descriptors.FileDescriptor
       .internalBuildGeneratedFileFrom(descriptorData,

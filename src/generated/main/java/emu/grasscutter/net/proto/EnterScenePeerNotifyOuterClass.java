@@ -724,9 +724,8 @@ public final class EnterScenePeerNotifyOuterClass {
       "\n\032EnterScenePeerNotify.proto\"o\n\024EnterSce" +
       "nePeerNotify\022\031\n\021enter_scene_token\030\003 \001(\r\022" +
       "\025\n\rdest_scene_id\030\r \001(\r\022\024\n\014host_peer_id\030\006" +
-      " \001(\r\022\017\n\007peer_id\030\010 \001(\rB3\n\031emu.grasscutter" +
-      ".net.proto\252\002\025FurinaImpact.Protocolb\006prot" +
-      "o3"
+      " \001(\r\022\017\n\007peer_id\030\010 \001(\rB\033\n\031emu.grasscutter" +
+      ".net.protob\006proto3"
     };
     descriptor = com.google.protobuf.Descriptors.FileDescriptor
       .internalBuildGeneratedFileFrom(descriptorData,

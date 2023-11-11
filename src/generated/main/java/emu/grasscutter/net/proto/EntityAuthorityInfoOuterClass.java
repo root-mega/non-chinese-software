@@ -1832,8 +1832,8 @@ public final class EntityAuthorityInfoOuterClass {
       "nfo\022\031\n\010born_pos\030\004 \001(\0132\007.Vector\022+\n\014abilit" +
       "y_info\030\001 \001(\0132\025.AbilitySyncStateInfo\0229\n\025r" +
       "enderer_changed_info\030\002 \001(\0132\032.EntityRende" +
-      "rerChangedInfoB3\n\031emu.grasscutter.net.pr" +
-      "oto\252\002\025FurinaImpact.Protocolb\006proto3"
+      "rerChangedInfoB\033\n\031emu.grasscutter.net.pr" +
+      "otob\006proto3"
     };
     descriptor = com.google.protobuf.Descriptors.FileDescriptor
       .internalBuildGeneratedFileFrom(descriptorData,

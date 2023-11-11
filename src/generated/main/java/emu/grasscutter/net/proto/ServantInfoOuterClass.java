@@ -579,8 +579,8 @@ public final class ServantInfoOuterClass {
     java.lang.String[] descriptorData = {
       "\n\021ServantInfo.proto\"@\n\013ServantInfo\022\030\n\020ma" +
       "ster_entity_id\030\001 \001(\r\022\027\n\017born_slot_index\030" +
-      "\002 \001(\rB3\n\031emu.grasscutter.net.proto\252\002\025Fur" +
-      "inaImpact.Protocolb\006proto3"
+      "\002 \001(\rB\033\n\031emu.grasscutter.net.protob\006prot" +
+      "o3"
     };
     descriptor = com.google.protobuf.Descriptors.FileDescriptor
       .internalBuildGeneratedFileFrom(descriptorData,

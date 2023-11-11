@@ -1027,9 +1027,8 @@ public final class RegionSimpleInfoOuterClass {
     java.lang.String[] descriptorData = {
       "\n\026RegionSimpleInfo.proto\"S\n\020RegionSimple" +
       "Info\022\024\n\014dispatch_url\030\004 \001(\t\022\014\n\004name\030\001 \001(\t" +
-      "\022\r\n\005title\030\002 \001(\t\022\014\n\004type\030\003 \001(\tB3\n\031emu.gra" +
-      "sscutter.net.proto\252\002\025FurinaImpact.Protoc" +
-      "olb\006proto3"
+      "\022\r\n\005title\030\002 \001(\t\022\014\n\004type\030\003 \001(\tB\033\n\031emu.gra" +
+      "sscutter.net.protob\006proto3"
     };
     descriptor = com.google.protobuf.Descriptors.FileDescriptor
       .internalBuildGeneratedFileFrom(descriptorData,

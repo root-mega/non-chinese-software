@@ -506,8 +506,8 @@ public final class PingRspOuterClass {
   static {
     java.lang.String[] descriptorData = {
       "\n\rPingRsp.proto\"\036\n\007PingRsp\022\023\n\013server_tim" +
-      "e\030\005 \001(\rB3\n\031emu.grasscutter.net.proto\252\002\025F" +
-      "urinaImpact.Protocolb\006proto3"
+      "e\030\005 \001(\rB\033\n\031emu.grasscutter.net.protob\006pr" +
+      "oto3"
     };
     descriptor = com.google.protobuf.Descriptors.FileDescriptor
       .internalBuildGeneratedFileFrom(descriptorData,

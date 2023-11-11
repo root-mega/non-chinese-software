@@ -771,8 +771,8 @@ public final class FetterDataOuterClass {
     java.lang.String[] descriptorData = {
       "\n\020FetterData.proto\"N\n\nFetterData\022\027\n\017cond" +
       "_index_list\030\003 \003(\r\022\024\n\014fetter_state\030\002 \001(\r\022" +
-      "\021\n\tfetter_id\030\001 \001(\rB3\n\031emu.grasscutter.ne" +
-      "t.proto\252\002\025FurinaImpact.Protocolb\006proto3"
+      "\021\n\tfetter_id\030\001 \001(\rB\033\n\031emu.grasscutter.ne" +
+      "t.protob\006proto3"
     };
     descriptor = com.google.protobuf.Descriptors.FileDescriptor
       .internalBuildGeneratedFileFrom(descriptorData,

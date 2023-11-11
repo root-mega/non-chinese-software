@@ -1534,8 +1534,8 @@ public final class AvatarFetterInfoOuterClass {
       "t\030\004 \003(\r\022\"\n\032rewarded_fetter_level_list\030\005 " +
       "\003(\r\022 \n\013fetter_list\030\006 \003(\0132\013.FetterData\022\024\n" +
       "\014open_id_list\030\003 \003(\r\022\022\n\nexp_number\030\001 \001(\r\022" +
-      "\021\n\texp_level\030\002 \001(\rB3\n\031emu.grasscutter.ne" +
-      "t.proto\252\002\025FurinaImpact.Protocolb\006proto3"
+      "\021\n\texp_level\030\002 \001(\rB\033\n\031emu.grasscutter.ne" +
+      "t.protob\006proto3"
     };
     descriptor = com.google.protobuf.Descriptors.FileDescriptor
       .internalBuildGeneratedFileFrom(descriptorData,

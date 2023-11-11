@@ -658,8 +658,8 @@ public final class FishtankFishInfoOuterClass {
       "\n\026FishtankFishInfo.proto\"d\n\020FishtankFish" +
       "Info\022\032\n\022initial_rotation_y\030\003 \001(\002\022 \n\030fish" +
       "_distance_from_water\030\001 \001(\002\022\022\n\nfish_scale" +
-      "\030\002 \001(\002B3\n\031emu.grasscutter.net.proto\252\002\025Fu" +
-      "rinaImpact.Protocolb\006proto3"
+      "\030\002 \001(\002B\033\n\031emu.grasscutter.net.protob\006pro" +
+      "to3"
     };
     descriptor = com.google.protobuf.Descriptors.FileDescriptor
       .internalBuildGeneratedFileFrom(descriptorData,

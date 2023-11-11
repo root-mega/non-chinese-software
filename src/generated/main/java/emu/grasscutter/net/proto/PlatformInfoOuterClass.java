@@ -2136,8 +2136,8 @@ public final class PlatformInfoOuterClass {
       "_id\030\001 \001(\r\022\020\n\010point_id\030\020 \001(\r\022\030\n\020start_sce" +
       "ne_time\030\004 \001(\r\0221\n\024moving_platform_type\030\r " +
       "\001(\0162\023.MovingPlatformType\022\027\n\017stop_scene_t" +
-      "ime\030\n \001(\rB3\n\031emu.grasscutter.net.proto\252\002" +
-      "\025FurinaImpact.Protocolb\006proto3"
+      "ime\030\n \001(\rB\033\n\031emu.grasscutter.net.protob\006" +
+      "proto3"
     };
     descriptor = com.google.protobuf.Descriptors.FileDescriptor
       .internalBuildGeneratedFileFrom(descriptorData,

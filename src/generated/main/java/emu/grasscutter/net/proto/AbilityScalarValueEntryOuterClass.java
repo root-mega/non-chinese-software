@@ -1327,9 +1327,8 @@ public final class AbilityScalarValueEntryOuterClass {
       "\030\003 \001(\002H\000\022\026\n\014string_value\030\004 \001(\tH\000\022\023\n\tint_" +
       "value\030\005 \001(\005H\000\022\024\n\nuint_value\030\006 \001(\rH\000\022\033\n\003k" +
       "ey\030\001 \001(\0132\016.AbilityString\022&\n\nvalue_type\030\002" +
-      " \001(\0162\022.AbilityScalarTypeB\007\n\005valueB3\n\031emu" +
-      ".grasscutter.net.proto\252\002\025FurinaImpact.Pr" +
-      "otocolb\006proto3"
+      " \001(\0162\022.AbilityScalarTypeB\007\n\005valueB\033\n\031emu" +
+      ".grasscutter.net.protob\006proto3"
     };
     descriptor = com.google.protobuf.Descriptors.FileDescriptor
       .internalBuildGeneratedFileFrom(descriptorData,

@@ -814,8 +814,8 @@ public final class SceneTeamUpdateNotifyOuterClass {
       "\n\033SceneTeamUpdateNotify.proto\032\025SceneTeam" +
       "Avatar.proto\"I\n\025SceneTeamUpdateNotify\0220\n" +
       "\026scene_team_avatar_list\030\001 \003(\0132\020.SceneTea" +
-      "mAvatarB3\n\031emu.grasscutter.net.proto\252\002\025F" +
-      "urinaImpact.Protocolb\006proto3"
+      "mAvatarB\033\n\031emu.grasscutter.net.protob\006pr" +
+      "oto3"
     };
     descriptor = com.google.protobuf.Descriptors.FileDescriptor
       .internalBuildGeneratedFileFrom(descriptorData,

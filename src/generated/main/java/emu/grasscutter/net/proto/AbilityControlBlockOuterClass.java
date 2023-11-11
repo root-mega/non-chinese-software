@@ -813,9 +813,8 @@ public final class AbilityControlBlockOuterClass {
     java.lang.String[] descriptorData = {
       "\n\031AbilityControlBlock.proto\032\023AbilityEmbr" +
       "yo.proto\"B\n\023AbilityControlBlock\022+\n\023abili" +
-      "ty_embryo_list\030\001 \003(\0132\016.AbilityEmbryoB3\n\031" +
-      "emu.grasscutter.net.proto\252\002\025FurinaImpact" +
-      ".Protocolb\006proto3"
+      "ty_embryo_list\030\001 \003(\0132\016.AbilityEmbryoB\033\n\031" +
+      "emu.grasscutter.net.protob\006proto3"
     };
     descriptor = com.google.protobuf.Descriptors.FileDescriptor
       .internalBuildGeneratedFileFrom(descriptorData,

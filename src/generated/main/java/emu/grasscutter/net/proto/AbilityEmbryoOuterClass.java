@@ -652,8 +652,7 @@ public final class AbilityEmbryoOuterClass {
       "\n\023AbilityEmbryo.proto\"b\n\rAbilityEmbryo\022\031" +
       "\n\021ability_name_hash\030\002 \001(\007\022\"\n\032ability_ove" +
       "rride_name_hash\030\003 \001(\007\022\022\n\nability_id\030\001 \001(" +
-      "\rB3\n\031emu.grasscutter.net.proto\252\002\025FurinaI" +
-      "mpact.Protocolb\006proto3"
+      "\rB\033\n\031emu.grasscutter.net.protob\006proto3"
     };
     descriptor = com.google.protobuf.Descriptors.FileDescriptor
       .internalBuildGeneratedFileFrom(descriptorData,

@@ -1032,9 +1032,8 @@ public final class MonsterRouteOuterClass {
       "\n\022MonsterRoute.proto\032\020RoutePoint.proto\"p" +
       "\n\014MonsterRoute\022!\n\014route_points\030\001 \003(\0132\013.R" +
       "outePoint\022\024\n\014arrive_range\030\004 \001(\002\022\023\n\013speed" +
-      "_level\030\002 \001(\r\022\022\n\nroute_type\030\003 \001(\rB3\n\031emu." +
-      "grasscutter.net.proto\252\002\025FurinaImpact.Pro" +
-      "tocolb\006proto3"
+      "_level\030\002 \001(\r\022\022\n\nroute_type\030\003 \001(\rB\033\n\031emu." +
+      "grasscutter.net.protob\006proto3"
     };
     descriptor = com.google.protobuf.Descriptors.FileDescriptor
       .internalBuildGeneratedFileFrom(descriptorData,

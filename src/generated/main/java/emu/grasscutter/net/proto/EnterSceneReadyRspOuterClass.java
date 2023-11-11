@@ -506,9 +506,8 @@ public final class EnterSceneReadyRspOuterClass {
   static {
     java.lang.String[] descriptorData = {
       "\n\030EnterSceneReadyRsp.proto\"/\n\022EnterScene" +
-      "ReadyRsp\022\031\n\021enter_scene_token\030\t \001(\rB3\n\031e" +
-      "mu.grasscutter.net.proto\252\002\025FurinaImpact." +
-      "Protocolb\006proto3"
+      "ReadyRsp\022\031\n\021enter_scene_token\030\t \001(\rB\033\n\031e" +
+      "mu.grasscutter.net.protob\006proto3"
     };
     descriptor = com.google.protobuf.Descriptors.FileDescriptor
       .internalBuildGeneratedFileFrom(descriptorData,

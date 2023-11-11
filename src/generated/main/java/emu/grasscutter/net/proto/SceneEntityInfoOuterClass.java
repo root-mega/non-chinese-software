@@ -4669,9 +4669,8 @@ public final class SceneEntityInfoOuterClass {
       "rBuff\022$\n\013entity_type\030\001 \001(\0162\017.ProtEntityT" +
       "ype\022\022\n\nlife_state\030\007 \001(\r\022\021\n\tentity_id\030\002 \001" +
       "(\r\022\037\n\027last_move_scene_time_ms\030\021 \001(\r\022\036\n\026l" +
-      "ast_move_reliable_seq\030\022 \001(\rB\010\n\006entityB3\n" +
-      "\031emu.grasscutter.net.proto\252\002\025FurinaImpac" +
-      "t.Protocolb\006proto3"
+      "ast_move_reliable_seq\030\022 \001(\rB\010\n\006entityB\033\n" +
+      "\031emu.grasscutter.net.protob\006proto3"
     };
     descriptor = com.google.protobuf.Descriptors.FileDescriptor
       .internalBuildGeneratedFileFrom(descriptorData,

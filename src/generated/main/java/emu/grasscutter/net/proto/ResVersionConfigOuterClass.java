@@ -1322,9 +1322,8 @@ public final class ResVersionConfigOuterClass {
       "onfig\022\033\n\023next_script_version\030\007 \001(\t\022\016\n\006br" +
       "anch\030\006 \001(\t\022\026\n\016version_suffix\030\005 \001(\t\022\013\n\003md" +
       "5\030\003 \001(\t\022\032\n\022release_total_size\030\004 \001(\t\022\017\n\007r" +
-      "elogin\030\002 \001(\010\022\017\n\007version\030\001 \001(\rB3\n\031emu.gra" +
-      "sscutter.net.proto\252\002\025FurinaImpact.Protoc" +
-      "olb\006proto3"
+      "elogin\030\002 \001(\010\022\017\n\007version\030\001 \001(\rB\033\n\031emu.gra" +
+      "sscutter.net.protob\006proto3"
     };
     descriptor = com.google.protobuf.Descriptors.FileDescriptor
       .internalBuildGeneratedFileFrom(descriptorData,

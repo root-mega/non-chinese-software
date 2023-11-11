@@ -1908,8 +1908,7 @@ public final class AbilityAppliedModifierOuterClass {
       "\n\030parent_ability_entity_id\030\002 \001(\r\022\034\n\024inst" +
       "anced_ability_id\030\005 \001(\r\022\031\n\021modifier_local" +
       "_id\030\001 \001(\005\022\035\n\025instanced_modifier_id\030\006 \001(\r" +
-      "B3\n\031emu.grasscutter.net.proto\252\002\025FurinaIm" +
-      "pact.Protocolb\006proto3"
+      "B\033\n\031emu.grasscutter.net.protob\006proto3"
     };
     descriptor = com.google.protobuf.Descriptors.FileDescriptor
       .internalBuildGeneratedFileFrom(descriptorData,

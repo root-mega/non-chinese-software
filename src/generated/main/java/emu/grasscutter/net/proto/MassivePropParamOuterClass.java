@@ -967,8 +967,8 @@ public final class MassivePropParamOuterClass {
       "\n\026MassivePropParam.proto\"c\n\020MassivePropP" +
       "aram\022\032\n\022reaction_info_list\030\002 \003(\r\022\022\n\npara" +
       "m_list\030\003 \003(\002\022\021\n\tsync_flag\030\004 \001(\r\022\014\n\004type\030" +
-      "\001 \001(\005B3\n\031emu.grasscutter.net.proto\252\002\025Fur" +
-      "inaImpact.Protocolb\006proto3"
+      "\001 \001(\005B\033\n\031emu.grasscutter.net.protob\006prot" +
+      "o3"
     };
     descriptor = com.google.protobuf.Descriptors.FileDescriptor
       .internalBuildGeneratedFileFrom(descriptorData,

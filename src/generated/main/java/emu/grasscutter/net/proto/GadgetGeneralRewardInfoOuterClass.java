@@ -1172,9 +1172,8 @@ public final class GadgetGeneralRewardInfoOuterClass {
       "am.proto\"\216\001\n\027GadgetGeneralRewardInfo\022\036\n\n" +
       "item_param\030\005 \001(\0132\n.ItemParam\022\030\n\020qualify_" +
       "uid_list\030\004 \003(\r\022\027\n\017remain_uid_list\030\003 \003(\r\022" +
-      "\021\n\tdead_time\030\002 \001(\r\022\r\n\005resin\030\001 \001(\rB3\n\031emu" +
-      ".grasscutter.net.proto\252\002\025FurinaImpact.Pr" +
-      "otocolb\006proto3"
+      "\021\n\tdead_time\030\002 \001(\r\022\r\n\005resin\030\001 \001(\rB\033\n\031emu" +
+      ".grasscutter.net.protob\006proto3"
     };
     descriptor = com.google.protobuf.Descriptors.FileDescriptor
       .internalBuildGeneratedFileFrom(descriptorData,

@@ -802,9 +802,8 @@ public final class AvatarExcelInfoOuterClass {
       "nfo\022\030\n\020prefab_path_hash\030\001 \001(\004\022\032\n\022combat_" +
       "config_hash\030\005 \001(\004\022\037\n\027prefab_path_remote_" +
       "hash\030\002 \001(\004\022\034\n\024controller_path_hash\030\003 \001(\004" +
-      "\022#\n\033controller_path_remote_hash\030\004 \001(\004B3\n" +
-      "\031emu.grasscutter.net.proto\252\002\025FurinaImpac" +
-      "t.Protocolb\006proto3"
+      "\022#\n\033controller_path_remote_hash\030\004 \001(\004B\033\n" +
+      "\031emu.grasscutter.net.protob\006proto3"
     };
     descriptor = com.google.protobuf.Descriptors.FileDescriptor
       .internalBuildGeneratedFileFrom(descriptorData,

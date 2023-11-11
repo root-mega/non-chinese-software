@@ -3410,9 +3410,8 @@ public final class MaterialDeleteInfoOuterClass {
       "mMapEntry\022\031\n\021config_delay_week\030\002 \001(\r\022\036\n\026" +
       "config_count_down_time\030\003 \001(\r\0327\n\025DeleteTi" +
       "meNumMapEntry\022\013\n\003key\030\001 \001(\r\022\r\n\005value\030\002 \001(" +
-      "\r:\0028\001B\r\n\013delete_infoB3\n\031emu.grasscutter." +
-      "net.proto\252\002\025FurinaImpact.Protocolb\006proto" +
-      "3"
+      "\r:\0028\001B\r\n\013delete_infoB\033\n\031emu.grasscutter." +
+      "net.protob\006proto3"
     };
     descriptor = com.google.protobuf.Descriptors.FileDescriptor
       .internalBuildGeneratedFileFrom(descriptorData,

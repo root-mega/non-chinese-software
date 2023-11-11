@@ -887,8 +887,8 @@ public final class MassivePropSyncInfoOuterClass {
       "\n\031MassivePropSyncInfo.proto\032\026MassiveProp" +
       "Param.proto\"G\n\023MassivePropSyncInfo\022$\n\tpr" +
       "op_list\030\002 \003(\0132\021.MassivePropParam\022\n\n\002id\030\001" +
-      " \001(\003B3\n\031emu.grasscutter.net.proto\252\002\025Furi" +
-      "naImpact.Protocolb\006proto3"
+      " \001(\003B\033\n\031emu.grasscutter.net.protob\006proto" +
+      "3"
     };
     descriptor = com.google.protobuf.Descriptors.FileDescriptor
       .internalBuildGeneratedFileFrom(descriptorData,

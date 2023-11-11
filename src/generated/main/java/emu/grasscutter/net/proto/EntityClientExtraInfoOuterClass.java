@@ -643,9 +643,8 @@ public final class EntityClientExtraInfoOuterClass {
     java.lang.String[] descriptorData = {
       "\n\033EntityClientExtraInfo.proto\032\014Vector.pr" +
       "oto\"?\n\025EntityClientExtraInfo\022&\n\025skill_an" +
-      "chor_position\030\001 \001(\0132\007.VectorB3\n\031emu.gras" +
-      "scutter.net.proto\252\002\025FurinaImpact.Protoco" +
-      "lb\006proto3"
+      "chor_position\030\001 \001(\0132\007.VectorB\033\n\031emu.gras" +
+      "scutter.net.protob\006proto3"
     };
     descriptor = com.google.protobuf.Descriptors.FileDescriptor
       .internalBuildGeneratedFileFrom(descriptorData,

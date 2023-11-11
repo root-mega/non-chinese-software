@@ -2473,9 +2473,8 @@ public final class BreakoutPhysicalObjectOuterClass {
       "ype\030\t \001(\r\022\021\n\tis_active\030\003 \001(\010\022\030\n\020last_hit" +
       "_peer_id\030\016 \001(\r\022\016\n\006offset\030\020 \001(\005\022\026\n\016total_" +
       "rotation\030\014 \001(\005\022\035\n\025element_reaction_buff\030" +
-      "\n \001(\r\022\r\n\005speed\030\006 \001(\005\022\n\n\002id\030\001 \001(\rB3\n\031emu." +
-      "grasscutter.net.proto\252\002\025FurinaImpact.Pro" +
-      "tocolb\006proto3"
+      "\n \001(\r\022\r\n\005speed\030\006 \001(\005\022\n\n\002id\030\001 \001(\rB\033\n\031emu." +
+      "grasscutter.net.protob\006proto3"
     };
     descriptor = com.google.protobuf.Descriptors.FileDescriptor
       .internalBuildGeneratedFileFrom(descriptorData,

@@ -890,9 +890,8 @@ public final class MpPlayRewardInfoOuterClass {
     java.lang.String[] descriptorData = {
       "\n\026MpPlayRewardInfo.proto\"T\n\020MpPlayReward" +
       "Info\022\030\n\020qualify_uid_list\030\003 \003(\r\022\027\n\017remain" +
-      "_uid_list\030\002 \003(\r\022\r\n\005resin\030\001 \001(\rB3\n\031emu.gr" +
-      "asscutter.net.proto\252\002\025FurinaImpact.Proto" +
-      "colb\006proto3"
+      "_uid_list\030\002 \003(\r\022\r\n\005resin\030\001 \001(\rB\033\n\031emu.gr" +
+      "asscutter.net.protob\006proto3"
     };
     descriptor = com.google.protobuf.Descriptors.FileDescriptor
       .internalBuildGeneratedFileFrom(descriptorData,

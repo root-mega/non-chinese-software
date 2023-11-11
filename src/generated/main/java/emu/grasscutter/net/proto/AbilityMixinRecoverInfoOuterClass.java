@@ -1646,9 +1646,8 @@ public final class AbilityMixinRecoverInfoOuterClass {
       "\001(\0132\021.BreakoutSnapShot\022\021\n\tdata_list\030\004 \003(" +
       "\r\022/\n\021massive_prop_list\030\006 \003(\0132\024.MassivePr" +
       "opSyncInfo\022\036\n\026is_serverbuff_modifier\030\005 \001" +
-      "(\010\022\020\n\010local_id\030\003 \001(\rB\010\n\006sourceB3\n\031emu.gr" +
-      "asscutter.net.proto\252\002\025FurinaImpact.Proto" +
-      "colb\006proto3"
+      "(\010\022\020\n\010local_id\030\003 \001(\rB\010\n\006sourceB\033\n\031emu.gr" +
+      "asscutter.net.protob\006proto3"
     };
     descriptor = com.google.protobuf.Descriptors.FileDescriptor
       .internalBuildGeneratedFileFrom(descriptorData,

@@ -803,9 +803,8 @@ public final class AbilityStringOuterClass {
   static {
     java.lang.String[] descriptorData = {
       "\n\023AbilityString.proto\"6\n\rAbilityString\022\r" +
-      "\n\003str\030\001 \001(\tH\000\022\016\n\004hash\030\002 \001(\rH\000B\006\n\004typeB3\n" +
-      "\031emu.grasscutter.net.proto\252\002\025FurinaImpac" +
-      "t.Protocolb\006proto3"
+      "\n\003str\030\001 \001(\tH\000\022\016\n\004hash\030\002 \001(\rH\000B\006\n\004typeB\033\n" +
+      "\031emu.grasscutter.net.protob\006proto3"
     };
     descriptor = com.google.protobuf.Descriptors.FileDescriptor
       .internalBuildGeneratedFileFrom(descriptorData,

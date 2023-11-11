@@ -959,8 +959,8 @@ public final class BreakoutSpawnPointOuterClass {
       "icalObject.proto\"m\n\022BreakoutSpawnPoint\0223" +
       "\n\022spawned_brick_list\030\003 \003(\0132\027.BreakoutPhy" +
       "sicalObject\022\026\n\016brick_suite_id\030\002 \001(\r\022\n\n\002i" +
-      "d\030\001 \001(\rB3\n\031emu.grasscutter.net.proto\252\002\025F" +
-      "urinaImpact.Protocolb\006proto3"
+      "d\030\001 \001(\rB\033\n\031emu.grasscutter.net.protob\006pr" +
+      "oto3"
     };
     descriptor = com.google.protobuf.Descriptors.FileDescriptor
       .internalBuildGeneratedFileFrom(descriptorData,

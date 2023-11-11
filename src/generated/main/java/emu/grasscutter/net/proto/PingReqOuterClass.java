@@ -580,9 +580,8 @@ public final class PingReqOuterClass {
   static {
     java.lang.String[] descriptorData = {
       "\n\rPingReq.proto\"/\n\007PingReq\022\023\n\013client_tim" +
-      "e\030\t \001(\r\022\017\n\007ue_time\030\003 \001(\002B3\n\031emu.grasscut" +
-      "ter.net.proto\252\002\025FurinaImpact.Protocolb\006p" +
-      "roto3"
+      "e\030\t \001(\r\022\017\n\007ue_time\030\003 \001(\002B\033\n\031emu.grasscut" +
+      "ter.net.protob\006proto3"
     };
     descriptor = com.google.protobuf.Descriptors.FileDescriptor
       .internalBuildGeneratedFileFrom(descriptorData,

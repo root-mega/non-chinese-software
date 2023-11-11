@@ -940,9 +940,8 @@ public final class PlayerLoginRspOuterClass {
       "\n\024PlayerLoginRsp.proto\032\026ResVersionConfig" +
       ".proto\"i\n\016PlayerLoginRsp\022\020\n\010game_biz\030\t \001" +
       "(\t\022\025\n\014country_code\030\300\001 \001(\t\022.\n\022res_version" +
-      "_config\030\212\005 \001(\0132\021.ResVersionConfigB3\n\031emu" +
-      ".grasscutter.net.proto\252\002\025FurinaImpact.Pr" +
-      "otocolb\006proto3"
+      "_config\030\212\005 \001(\0132\021.ResVersionConfigB\033\n\031emu" +
+      ".grasscutter.net.protob\006proto3"
     };
     descriptor = com.google.protobuf.Descriptors.FileDescriptor
       .internalBuildGeneratedFileFrom(descriptorData,

@@ -933,9 +933,8 @@ public final class SceneFishInfoOuterClass {
       "SceneFishInfo\022\036\n\rfish_pool_pos\030\003 \001(\0132\007.V" +
       "ector\022\033\n\023fish_pool_entity_id\030\002 \001(\r\022\027\n\017la" +
       "st_shock_time\030\005 \001(\r\022\033\n\023fish_pool_gadget_" +
-      "id\030\004 \001(\r\022\017\n\007fish_id\030\001 \001(\rB3\n\031emu.grasscu" +
-      "tter.net.proto\252\002\025FurinaImpact.Protocolb\006" +
-      "proto3"
+      "id\030\004 \001(\r\022\017\n\007fish_id\030\001 \001(\rB\033\n\031emu.grasscu" +
+      "tter.net.protob\006proto3"
     };
     descriptor = com.google.protobuf.Descriptors.FileDescriptor
       .internalBuildGeneratedFileFrom(descriptorData,

@@ -916,8 +916,8 @@ public final class ReliquaryOuterClass {
       "\n\017Reliquary.proto\"q\n\tReliquary\022\033\n\023append" +
       "_prop_id_list\030\005 \003(\r\022\024\n\014main_prop_id\030\004 \001(" +
       "\r\022\013\n\003exp\030\002 \001(\r\022\025\n\rpromote_level\030\003 \001(\r\022\r\n" +
-      "\005level\030\001 \001(\rB3\n\031emu.grasscutter.net.prot" +
-      "o\252\002\025FurinaImpact.Protocolb\006proto3"
+      "\005level\030\001 \001(\rB\033\n\031emu.grasscutter.net.prot" +
+      "ob\006proto3"
     };
     descriptor = com.google.protobuf.Descriptors.FileDescriptor
       .internalBuildGeneratedFileFrom(descriptorData,

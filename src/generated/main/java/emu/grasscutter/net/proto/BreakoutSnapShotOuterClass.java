@@ -4438,8 +4438,8 @@ public final class BreakoutSnapShotOuterClass {
       "wave_index\030\006 \001(\r\022\021\n\tmax_combo\030\n \001(\r\022\021\n\ti" +
       "s_finish\030\007 \001(\010\022\030\n\020client_game_time\030\001 \001(\004" +
       "\022\r\n\005score\030\010 \001(\r\022\r\n\005combo\030\t \001(\r\022\022\n\nlife_c" +
-      "ount\030\013 \001(\rB3\n\031emu.grasscutter.net.proto\252" +
-      "\002\025FurinaImpact.Protocolb\006proto3"
+      "ount\030\013 \001(\rB\033\n\031emu.grasscutter.net.protob" +
+      "\006proto3"
     };
     descriptor = com.google.protobuf.Descriptors.FileDescriptor
       .internalBuildGeneratedFileFrom(descriptorData,

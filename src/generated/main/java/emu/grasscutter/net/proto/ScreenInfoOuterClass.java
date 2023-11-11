@@ -578,9 +578,8 @@ public final class ScreenInfoOuterClass {
   static {
     java.lang.String[] descriptorData = {
       "\n\020ScreenInfo.proto\":\n\nScreenInfo\022\033\n\023proj" +
-      "ector_entity_id\030\002 \001(\r\022\017\n\007live_id\030\001 \001(\rB3" +
-      "\n\031emu.grasscutter.net.proto\252\002\025FurinaImpa" +
-      "ct.Protocolb\006proto3"
+      "ector_entity_id\030\002 \001(\r\022\017\n\007live_id\030\001 \001(\rB\033" +
+      "\n\031emu.grasscutter.net.protob\006proto3"
     };
     descriptor = com.google.protobuf.Descriptors.FileDescriptor
       .internalBuildGeneratedFileFrom(descriptorData,

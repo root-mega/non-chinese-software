@@ -799,9 +799,8 @@ public final class AbilityAttachedModifierOuterClass {
       "ityAttachedModifier\022\036\n\026is_serverbuff_mod" +
       "ifier\030\004 \001(\010\022\022\n\nis_invalid\030\001 \001(\010\022\030\n\020attac" +
       "h_name_hash\030\005 \001(\005\022\035\n\025instanced_modifier_" +
-      "id\030\003 \001(\r\022\027\n\017owner_entity_id\030\002 \001(\rB3\n\031emu" +
-      ".grasscutter.net.proto\252\002\025FurinaImpact.Pr" +
-      "otocolb\006proto3"
+      "id\030\003 \001(\r\022\027\n\017owner_entity_id\030\002 \001(\rB\033\n\031emu" +
+      ".grasscutter.net.protob\006proto3"
     };
     descriptor = com.google.protobuf.Descriptors.FileDescriptor
       .internalBuildGeneratedFileFrom(descriptorData,

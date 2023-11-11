@@ -724,8 +724,8 @@ public final class RoguelikeGadgetInfoOuterClass {
       "\n\031RoguelikeGadgetInfo.proto\"e\n\023Roguelike" +
       "GadgetInfo\022\026\n\016cell_config_id\030\001 \001(\r\022\022\n\nce" +
       "ll_state\030\003 \001(\r\022\017\n\007cell_id\030\004 \001(\r\022\021\n\tcell_" +
-      "type\030\002 \001(\rB3\n\031emu.grasscutter.net.proto\252" +
-      "\002\025FurinaImpact.Protocolb\006proto3"
+      "type\030\002 \001(\rB\033\n\031emu.grasscutter.net.protob" +
+      "\006proto3"
     };
     descriptor = com.google.protobuf.Descriptors.FileDescriptor
       .internalBuildGeneratedFileFrom(descriptorData,

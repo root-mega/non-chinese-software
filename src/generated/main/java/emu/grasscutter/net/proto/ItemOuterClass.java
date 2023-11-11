@@ -1328,9 +1328,8 @@ public final class ItemOuterClass {
       "proto\032\013Equip.proto\"\210\001\n\004Item\022\035\n\010material\030" +
       "\005 \001(\0132\t.MaterialH\000\022\027\n\005equip\030\006 \001(\0132\006.Equi" +
       "pH\000\022\037\n\tfurniture\030\007 \001(\0132\n.FurnitureH\000\022\017\n\007" +
-      "item_id\030\001 \001(\r\022\014\n\004guid\030\002 \001(\004B\010\n\006detailB3\n" +
-      "\031emu.grasscutter.net.proto\252\002\025FurinaImpac" +
-      "t.Protocolb\006proto3"
+      "item_id\030\001 \001(\r\022\014\n\004guid\030\002 \001(\004B\010\n\006detailB\033\n" +
+      "\031emu.grasscutter.net.protob\006proto3"
     };
     descriptor = com.google.protobuf.Descriptors.FileDescriptor
       .internalBuildGeneratedFileFrom(descriptorData,

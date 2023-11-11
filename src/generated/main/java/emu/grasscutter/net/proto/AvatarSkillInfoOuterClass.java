@@ -771,9 +771,8 @@ public final class AvatarSkillInfoOuterClass {
     java.lang.String[] descriptorData = {
       "\n\025AvatarSkillInfo.proto\"\\\n\017AvatarSkillIn" +
       "fo\022\031\n\021full_cd_time_list\030\002 \003(\r\022\030\n\020max_cha" +
-      "rge_count\030\003 \001(\r\022\024\n\014pass_cd_time\030\001 \001(\rB3\n" +
-      "\031emu.grasscutter.net.proto\252\002\025FurinaImpac" +
-      "t.Protocolb\006proto3"
+      "rge_count\030\003 \001(\r\022\024\n\014pass_cd_time\030\001 \001(\rB\033\n" +
+      "\031emu.grasscutter.net.protob\006proto3"
     };
     descriptor = com.google.protobuf.Descriptors.FileDescriptor
       .internalBuildGeneratedFileFrom(descriptorData,

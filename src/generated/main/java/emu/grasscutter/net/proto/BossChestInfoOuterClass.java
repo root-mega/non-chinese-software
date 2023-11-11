@@ -1312,9 +1312,8 @@ emu.grasscutter.net.proto.WeeklyBossResinDiscountInfoOuterClass.WeeklyBossResinD
       "estInfo.UidDiscountMapEntry\022\r\n\005resin\030\002 \001" +
       "(\r\022\031\n\021monster_config_id\030\001 \001(\r\032S\n\023UidDisc" +
       "ountMapEntry\022\013\n\003key\030\001 \001(\r\022+\n\005value\030\002 \001(\013" +
-      "2\034.WeeklyBossResinDiscountInfo:\0028\001B3\n\031em" +
-      "u.grasscutter.net.proto\252\002\025FurinaImpact.P" +
-      "rotocolb\006proto3"
+      "2\034.WeeklyBossResinDiscountInfo:\0028\001B\033\n\031em" +
+      "u.grasscutter.net.protob\006proto3"
     };
     descriptor = com.google.protobuf.Descriptors.FileDescriptor
       .internalBuildGeneratedFileFrom(descriptorData,

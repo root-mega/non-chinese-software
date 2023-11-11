@@ -1596,8 +1596,8 @@ public final class SceneWeaponInfoOuterClass {
       "promote_level\030\006 \001(\r\022\021\n\tentity_id\030\001 \001(\r\022\r" +
       "\n\005level\030\005 \001(\r\022\021\n\tgadget_id\030\002 \001(\r\022\014\n\004guid" +
       "\030\004 \001(\004\032/\n\rAffixMapEntry\022\013\n\003key\030\001 \001(\r\022\r\n\005" +
-      "value\030\002 \001(\r:\0028\001B3\n\031emu.grasscutter.net.p" +
-      "roto\252\002\025FurinaImpact.Protocolb\006proto3"
+      "value\030\002 \001(\r:\0028\001B\033\n\031emu.grasscutter.net.p" +
+      "rotob\006proto3"
     };
     descriptor = com.google.protobuf.Descriptors.FileDescriptor
       .internalBuildGeneratedFileFrom(descriptorData,

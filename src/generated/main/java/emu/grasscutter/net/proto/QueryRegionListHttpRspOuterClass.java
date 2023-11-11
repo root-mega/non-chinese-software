@@ -1107,9 +1107,8 @@ public final class QueryRegionListHttpRspOuterClass {
       "p\022&\n\036client_custom_config_encrypted\030\006 \001(" +
       "\014\022\031\n\021client_secret_key\030\005 \001(\014\022&\n\013region_l" +
       "ist\030\002 \003(\0132\021.RegionSimpleInfo\022\017\n\007retcode\030" +
-      "\001 \001(\005\022\027\n\017enable_login_pc\030\007 \001(\010B3\n\031emu.gr" +
-      "asscutter.net.proto\252\002\025FurinaImpact.Proto" +
-      "colb\006proto3"
+      "\001 \001(\005\022\027\n\017enable_login_pc\030\007 \001(\010B\033\n\031emu.gr" +
+      "asscutter.net.protob\006proto3"
     };
     descriptor = com.google.protobuf.Descriptors.FileDescriptor
       .internalBuildGeneratedFileFrom(descriptorData,

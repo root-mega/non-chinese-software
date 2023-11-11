@@ -4823,9 +4823,8 @@ emu.grasscutter.net.proto.PropValueOuterClass.PropValue defaultValue) {
       "\001(\r\022\r\n\005value\030\002 \001(\r:\0028\001\032:\n\014PropMapEntry\022\013" +
       "\n\003key\030\001 \001(\r\022\031\n\005value\030\002 \001(\0132\n.PropValue:\002" +
       "8\001\032>\n\034ProudSkillExtraLevelMapEntry\022\013\n\003ke" +
-      "y\030\001 \001(\r\022\r\n\005value\030\002 \001(\r:\0028\001B3\n\031emu.grassc" +
-      "utter.net.proto\252\002\025FurinaImpact.Protocolb" +
-      "\006proto3"
+      "y\030\001 \001(\r\022\r\n\005value\030\002 \001(\r:\0028\001B\033\n\031emu.grassc" +
+      "utter.net.protob\006proto3"
     };
     descriptor = com.google.protobuf.Descriptors.FileDescriptor
       .internalBuildGeneratedFileFrom(descriptorData,

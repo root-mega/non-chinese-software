@@ -1098,8 +1098,8 @@ public final class GetPlayerTokenRspOuterClass {
       "okenRsp\022\r\n\004sign\030\245\010 \001(\t\022\030\n\017server_rand_ke" +
       "y\030\223\003 \001(\t\022\033\n\023security_cmd_buffer\030\n \001(\014\022\024\n" +
       "\014country_code\030| \001(\t\022\025\n\rplatform_type\030\007 \001" +
-      "(\r\022\013\n\003uid\030\010 \001(\rB3\n\031emu.grasscutter.net.p" +
-      "roto\252\002\025FurinaImpact.Protocolb\006proto3"
+      "(\r\022\013\n\003uid\030\010 \001(\rB\033\n\031emu.grasscutter.net.p" +
+      "rotob\006proto3"
     };
     descriptor = com.google.protobuf.Descriptors.FileDescriptor
       .internalBuildGeneratedFileFrom(descriptorData,

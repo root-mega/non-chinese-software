@@ -1291,8 +1291,8 @@ public final class GadgetPlayInfoOuterClass {
       "gress_stage_list\030\003 \003(\r\022\020\n\010progress\030\006 \001(\r" +
       "\022\021\n\tplay_type\030\001 \001(\r\022\020\n\010start_cd\030\004 \001(\r\022\022\n" +
       "\nstart_time\030\005 \001(\r\022\020\n\010duration\030\002 \001(\rB\013\n\tp" +
-      "lay_infoB3\n\031emu.grasscutter.net.proto\252\002\025" +
-      "FurinaImpact.Protocolb\006proto3"
+      "lay_infoB\033\n\031emu.grasscutter.net.protob\006p" +
+      "roto3"
     };
     descriptor = com.google.protobuf.Descriptors.FileDescriptor
       .internalBuildGeneratedFileFrom(descriptorData,

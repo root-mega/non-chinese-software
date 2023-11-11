@@ -656,8 +656,8 @@ public final class VectorOuterClass {
   static {
     java.lang.String[] descriptorData = {
       "\n\014Vector.proto\")\n\006Vector\022\t\n\001y\030\002 \001(\002\022\t\n\001z" +
-      "\030\003 \001(\002\022\t\n\001x\030\001 \001(\002B3\n\031emu.grasscutter.net" +
-      ".proto\252\002\025FurinaImpact.Protocolb\006proto3"
+      "\030\003 \001(\002\022\t\n\001x\030\001 \001(\002B\033\n\031emu.grasscutter.net" +
+      ".protob\006proto3"
     };
     descriptor = com.google.protobuf.Descriptors.FileDescriptor
       .internalBuildGeneratedFileFrom(descriptorData,

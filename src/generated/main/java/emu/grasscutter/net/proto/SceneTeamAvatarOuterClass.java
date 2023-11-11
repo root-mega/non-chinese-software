@@ -1425,8 +1425,7 @@ public final class SceneTeamAvatarOuterClass {
       "\n\tentity_id\030\016 \001(\r\022\030\n\020weapon_entity_id\030\017 " +
       "\001(\r\022\023\n\013avatar_guid\030\003 \001(\004\022\023\n\013weapon_guid\030" +
       "\001 \001(\004\022\020\n\010scene_id\030\007 \001(\r\022\022\n\nplayer_uid\030\004 " +
-      "\001(\rB3\n\031emu.grasscutter.net.proto\252\002\025Furin" +
-      "aImpact.Protocolb\006proto3"
+      "\001(\rB\033\n\031emu.grasscutter.net.protob\006proto3"
     };
     descriptor = com.google.protobuf.Descriptors.FileDescriptor
       .internalBuildGeneratedFileFrom(descriptorData,

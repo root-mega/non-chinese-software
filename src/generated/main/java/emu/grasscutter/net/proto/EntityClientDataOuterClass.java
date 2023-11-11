@@ -654,8 +654,8 @@ public final class EntityClientDataOuterClass {
       "\n\026EntityClientData.proto\"q\n\020EntityClient" +
       "Data\022\033\n\023windmill_sync_angle\030\002 \001(\002\022\036\n\026win" +
       "d_change_scene_time\030\001 \001(\r\022 \n\030wind_change" +
-      "_target_level\030\003 \001(\005B3\n\031emu.grasscutter.n" +
-      "et.proto\252\002\025FurinaImpact.Protocolb\006proto3"
+      "_target_level\030\003 \001(\005B\033\n\031emu.grasscutter.n" +
+      "et.protob\006proto3"
     };
     descriptor = com.google.protobuf.Descriptors.FileDescriptor
       .internalBuildGeneratedFileFrom(descriptorData,

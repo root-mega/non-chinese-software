@@ -2391,9 +2391,8 @@ public final class AbilitySyncStateInfoOuterClass {
       "liedModifier\0227\n\025sgv_dynamic_value_map\030\006 " +
       "\003(\0132\030.AbilityScalarValueEntry\0223\n\021dynamic" +
       "_value_map\030\002 \003(\0132\030.AbilityScalarValueEnt" +
-      "ry\022\021\n\tis_inited\030\001 \001(\010B3\n\031emu.grasscutter" +
-      ".net.proto\252\002\025FurinaImpact.Protocolb\006prot" +
-      "o3"
+      "ry\022\021\n\tis_inited\030\001 \001(\010B\033\n\031emu.grasscutter" +
+      ".net.protob\006proto3"
     };
     descriptor = com.google.protobuf.Descriptors.FileDescriptor
       .internalBuildGeneratedFileFrom(descriptorData,

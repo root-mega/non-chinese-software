@@ -580,9 +580,8 @@ public final class FightPropPairOuterClass {
   static {
     java.lang.String[] descriptorData = {
       "\n\023FightPropPair.proto\"6\n\rFightPropPair\022\022" +
-      "\n\nprop_value\030\002 \001(\002\022\021\n\tprop_type\030\001 \001(\rB3\n" +
-      "\031emu.grasscutter.net.proto\252\002\025FurinaImpac" +
-      "t.Protocolb\006proto3"
+      "\n\nprop_value\030\002 \001(\002\022\021\n\tprop_type\030\001 \001(\rB\033\n" +
+      "\031emu.grasscutter.net.protob\006proto3"
     };
     descriptor = com.google.protobuf.Descriptors.FileDescriptor
       .internalBuildGeneratedFileFrom(descriptorData,

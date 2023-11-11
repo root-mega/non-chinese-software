@@ -814,8 +814,7 @@ public final class CustomGadgetTreeInfoOuterClass {
       "\n\032CustomGadgetTreeInfo.proto\032\032CustomComm" +
       "onNodeInfo.proto\"@\n\024CustomGadgetTreeInfo" +
       "\022(\n\tnode_list\030\001 \003(\0132\025.CustomCommonNodeIn" +
-      "foB3\n\031emu.grasscutter.net.proto\252\002\025Furina" +
-      "Impact.Protocolb\006proto3"
+      "foB\033\n\031emu.grasscutter.net.protob\006proto3"
     };
     descriptor = com.google.protobuf.Descriptors.FileDescriptor
       .internalBuildGeneratedFileFrom(descriptorData,

@@ -1096,9 +1096,8 @@ public final class TrialAvatarInfoOuterClass {
       "tRecord.proto\032\nItem.proto\"z\n\017TrialAvatar" +
       "Info\022\037\n\020trial_equip_list\030\002 \003(\0132\005.Item\022-\n" +
       "\014grant_record\030\003 \001(\0132\027.TrialAvatarGrantRe" +
-      "cord\022\027\n\017trial_avatar_id\030\001 \001(\rB3\n\031emu.gra" +
-      "sscutter.net.proto\252\002\025FurinaImpact.Protoc" +
-      "olb\006proto3"
+      "cord\022\027\n\017trial_avatar_id\030\001 \001(\rB\033\n\031emu.gra" +
+      "sscutter.net.protob\006proto3"
     };
     descriptor = com.google.protobuf.Descriptors.FileDescriptor
       .internalBuildGeneratedFileFrom(descriptorData,

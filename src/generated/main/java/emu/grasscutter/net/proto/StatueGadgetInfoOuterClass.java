@@ -626,9 +626,8 @@ public final class StatueGadgetInfoOuterClass {
   static {
     java.lang.String[] descriptorData = {
       "\n\026StatueGadgetInfo.proto\"2\n\020StatueGadget" +
-      "Info\022\036\n\026opened_statue_uid_list\030\001 \003(\rB3\n\031" +
-      "emu.grasscutter.net.proto\252\002\025FurinaImpact" +
-      ".Protocolb\006proto3"
+      "Info\022\036\n\026opened_statue_uid_list\030\001 \003(\rB\033\n\031" +
+      "emu.grasscutter.net.protob\006proto3"
     };
     descriptor = com.google.protobuf.Descriptors.FileDescriptor
       .internalBuildGeneratedFileFrom(descriptorData,

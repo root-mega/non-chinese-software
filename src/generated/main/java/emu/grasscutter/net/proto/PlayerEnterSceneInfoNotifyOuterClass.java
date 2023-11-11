@@ -1372,9 +1372,8 @@ public final class PlayerEnterSceneInfoNotifyOuterClass {
       "_enter_info\030\017 \003(\0132\025.AvatarEnterSceneInfo" +
       "\0220\n\024mp_level_entity_info\030\t \001(\0132\022.MPLevel" +
       "EntityInfo\022\034\n\024cur_avatar_entity_id\030\014 \001(\r" +
-      "\022\031\n\021enter_scene_token\030\004 \001(\rB3\n\031emu.grass" +
-      "cutter.net.proto\252\002\025FurinaImpact.Protocol" +
-      "b\006proto3"
+      "\022\031\n\021enter_scene_token\030\004 \001(\rB\033\n\031emu.grass" +
+      "cutter.net.protob\006proto3"
     };
     descriptor = com.google.protobuf.Descriptors.FileDescriptor
       .internalBuildGeneratedFileFrom(descriptorData,

@@ -7189,9 +7189,8 @@ public final class SceneGadgetInfoOuterClass {
       "how_cutscene\030\010 \001(\010\022\031\n\021gadget_talk_state\030" +
       "\032 \001(\r\022\024\n\014gadget_state\030\006 \001(\r\022\020\n\010draft_id\030" +
       "\031 \001(\r\022\021\n\tgadget_id\030\001 \001(\r\022\"\n\tborn_type\030\005 " +
-      "\001(\0162\017.GadgetBornTypeB\t\n\007contentB3\n\031emu.g" +
-      "rasscutter.net.proto\252\002\025FurinaImpact.Prot" +
-      "ocolb\006proto3"
+      "\001(\0162\017.GadgetBornTypeB\t\n\007contentB\033\n\031emu.g" +
+      "rasscutter.net.protob\006proto3"
     };
     descriptor = com.google.protobuf.Descriptors.FileDescriptor
       .internalBuildGeneratedFileFrom(descriptorData,

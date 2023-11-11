@@ -1594,9 +1594,8 @@ public final class BreakoutPhysicalObjectModifierOuterClass {
       "d_time\030\013 \001(\005\022\017\n\007peer_id\030\r \001(\r\022\016\n\006param6\030" +
       "\010 \001(\005\022\r\n\005level\030\017 \001(\r\022\022\n\nskill_type\030\016 \001(\r" +
       "\022\r\n\005bool1\030\t \001(\010\022\016\n\006param2\030\004 \001(\005\022\r\n\005combo" +
-      "\030\014 \001(\r\022\016\n\006param1\030\003 \001(\005B3\n\031emu.grasscutte" +
-      "r.net.proto\252\002\025FurinaImpact.Protocolb\006pro" +
-      "to3"
+      "\030\014 \001(\r\022\016\n\006param1\030\003 \001(\005B\033\n\031emu.grasscutte" +
+      "r.net.protob\006proto3"
     };
     descriptor = com.google.protobuf.Descriptors.FileDescriptor
       .internalBuildGeneratedFileFrom(descriptorData,

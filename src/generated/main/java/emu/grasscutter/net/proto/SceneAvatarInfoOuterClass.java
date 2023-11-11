@@ -3900,8 +3900,8 @@ public final class SceneAvatarInfoOuterClass {
       "\001(\r\022\014\n\004guid\030\003 \001(\004\032>\n\034ProudSkillExtraLeve" +
       "lMapEntry\022\013\n\003key\030\001 \001(\r\022\r\n\005value\030\002 \001(\r:\0028" +
       "\001\0324\n\022SkillLevelMapEntry\022\013\n\003key\030\001 \001(\r\022\r\n\005" +
-      "value\030\002 \001(\r:\0028\001B3\n\031emu.grasscutter.net.p" +
-      "roto\252\002\025FurinaImpact.Protocolb\006proto3"
+      "value\030\002 \001(\r:\0028\001B\033\n\031emu.grasscutter.net.p" +
+      "rotob\006proto3"
     };
     descriptor = com.google.protobuf.Descriptors.FileDescriptor
       .internalBuildGeneratedFileFrom(descriptorData,

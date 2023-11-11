@@ -651,9 +651,8 @@ public final class AbilityGadgetInfoOuterClass {
     java.lang.String[] descriptorData = {
       "\n\027AbilityGadgetInfo.proto\"X\n\021AbilityGadg" +
       "etInfo\022\030\n\020camp_target_type\030\002 \001(\r\022\017\n\007camp" +
-      "_id\030\001 \001(\r\022\030\n\020target_entity_id\030\003 \001(\rB3\n\031e" +
-      "mu.grasscutter.net.proto\252\002\025FurinaImpact." +
-      "Protocolb\006proto3"
+      "_id\030\001 \001(\r\022\030\n\020target_entity_id\030\003 \001(\rB\033\n\031e" +
+      "mu.grasscutter.net.protob\006proto3"
     };
     descriptor = com.google.protobuf.Descriptors.FileDescriptor
       .internalBuildGeneratedFileFrom(descriptorData,

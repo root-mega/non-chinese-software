@@ -956,8 +956,8 @@ public final class SceneEntityAppearNotifyOuterClass {
       "tityInfo.proto\032\020VisionType.proto\"b\n\027Scen" +
       "eEntityAppearNotify\022%\n\013entity_list\030\n \003(\013" +
       "2\020.SceneEntityInfo\022 \n\013appear_type\030\016 \001(\0162" +
-      "\013.VisionTypeB3\n\031emu.grasscutter.net.prot" +
-      "o\252\002\025FurinaImpact.Protocolb\006proto3"
+      "\013.VisionTypeB\033\n\031emu.grasscutter.net.prot" +
+      "ob\006proto3"
     };
     descriptor = com.google.protobuf.Descriptors.FileDescriptor
       .internalBuildGeneratedFileFrom(descriptorData,
